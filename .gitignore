@@ -1,0 +1,5 @@
+scr/
+.idea/
+venv/
+lesson.py
+__pycache__/
